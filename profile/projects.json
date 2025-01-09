@@ -1,0 +1,111 @@
+{
+    "projects" : [
+        {
+            "title": "Lear(legacy Email and review version 2.0)",
+            "bodyText": "- Objective- Provide an efficient and user-friendly interface to search and retrieve legacy emails and reviews. Integrate with existing systems that may have outdated data storage and retrieval mechanisms. Improve access to historical communications and feedback, which could be valuable for customer service, legal compliance, or business insights.",
+            "tags" : [
+                "Python(FastApi,celery, Django)",
+                "React",
+                "mongodb",
+                "elasticsearch",
+                "sqlite",
+                "rabbitmq",               
+                "socket",
+                "redis",
+                "Kibana",
+                "c#",
+                "mongo-compass",
+                "Bootstrap"
+            ]
+        },
+        {
+            "title": "Invenire",
+            "bodyText": "-Objective- Improve the efficiency of searching, indexing, and managing vast inventories or data sets. Provide a centralized platform for users to search and retrieve information easily using various filters and search criteria. Ensure that all items or records in the inventory are well-organized, categorized, and accessible.",
+            "tags" : [
+                "Python(Flask)",
+                "AWS Dynamodb",
+                "React",
+                "AWS cloudsearch",
+                "AWS lambda",
+                "SQS",
+                "Aws S3",
+                "SES",
+                "Mongodb",
+                "mongo-compass",
+                "Bootstrap"
+            ]
+        },
+        {
+            "title": "Lear(legacy Email and review version 1.0)",
+            "bodyText": "-Objective- Provide an efficient and user-friendly interface to search and retrieve legacy emails and reviews. Integrate with existing systems that may have outdated data storage and retrieval mechanisms. Improve access to historical communications and feedback, which could be valuable for customer service, legal compliance, or business insights.",
+            "tags" : [
+                "Python(Django, celery)",
+                "NodeJs",
+                "angular",
+                "elasticsearch",
+                "sqlite",
+                "socket.io",
+                "Kibana",
+                "c#",
+                "mongodb",
+                "mongo-compass",
+                "Bootstrap"
+            ]
+        },
+        {
+            "title": "Opspi Hosting Management",
+            "bodyText": "-Objective- Automate server provisioning, configuration, and management. Streamline client and account management. Improve efficiency in handling support requests and billing cycles.Monitor server performance and ensure uptime.",
+            "tags" : [
+                "Nodejs",
+                "angular",
+                "mysql",
+                "mongodb",
+                "socket",
+                "json",
+                "mongo-compass",
+                "Bootstrap"
+            ]
+        },
+        {
+            "title": "Hr2payroll",
+            "bodyText": "-Objective- The main objective of a Payroll Management System is to treamline the payroll   process, reduce manual errors, and ensure compliance with labor and tax laws. This project aims to automate tasks such as salary calculations, employee record management, and report.",
+            "tags" : [
+                "cakePhp",
+                "mysql",
+                "angularjs",
+                "javascript",
+                "html",
+                "css",
+                "phpMyadmin"
+            ]
+        },
+        {
+            "title": "mlm(Multi-level Marketing different version)",
+            "bodyText": "-Objecticve-Simplify the management of MLM networks. Automate commission calculations based on sales and referrals. Provide real-time insights into the growth and performance of the network. Enhance member engagement through dashboards, reports, and payment tracking.",
+            "tags" : [
+                "corePhp",
+                "mysql",
+                "javascript",
+                "html",
+                "ajax",
+                "css",
+                "phpMyadmin"
+
+            ]
+        },
+        {
+            "title": "Schoolmax(Different phase)",
+            "bodyText": "-Objective- Digitize administrative processes. Enhance collaboration among stakeholders (students, teachers, and parents). Provide a centralized platform for managing academics, attendance, fees, and communication. Reduce manual workload and errors in school administration.",
+            "tags" : [
+                "corePhp",
+                "mysql",
+                "javascript",
+                "html",
+                "ajax",
+                "css",
+                "phpMyadmin"
+            ]
+        }
+       
+    ]
+}

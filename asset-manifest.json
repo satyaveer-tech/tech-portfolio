@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tech-portfolio/static/css/main.cb301495.css",
+    "main.js": "/tech-portfolio/static/js/main.f159c9d8.js",
+    "static/js/124.3dac8224.chunk.js": "/tech-portfolio/static/js/124.3dac8224.chunk.js",
+    "static/js/185.4d3b8a5a.chunk.js": "/tech-portfolio/static/js/185.4d3b8a5a.chunk.js",
+    "static/js/440.2745a242.chunk.js": "/tech-portfolio/static/js/440.2745a242.chunk.js",
+    "static/css/353.fe9c079c.chunk.css": "/tech-portfolio/static/css/353.fe9c079c.chunk.css",
+    "static/js/353.a6ae83c4.chunk.js": "/tech-portfolio/static/js/353.a6ae83c4.chunk.js",
+    "static/js/660.dff304d2.chunk.js": "/tech-portfolio/static/js/660.dff304d2.chunk.js",
+    "static/js/57.a6c51415.chunk.js": "/tech-portfolio/static/js/57.a6c51415.chunk.js",
+    "static/js/697.31498dcd.chunk.js": "/tech-portfolio/static/js/697.31498dcd.chunk.js",
+    "static/js/449.0ffb5098.chunk.js": "/tech-portfolio/static/js/449.0ffb5098.chunk.js",
+    "static/js/453.87e45203.chunk.js": "/tech-portfolio/static/js/453.87e45203.chunk.js",
+    "static/js/819.1e839109.chunk.js": "/tech-portfolio/static/js/819.1e839109.chunk.js",
+    "index.html": "/tech-portfolio/index.html",
+    "main.cb301495.css.map": "/tech-portfolio/static/css/main.cb301495.css.map",
+    "main.f159c9d8.js.map": "/tech-portfolio/static/js/main.f159c9d8.js.map",
+    "124.3dac8224.chunk.js.map": "/tech-portfolio/static/js/124.3dac8224.chunk.js.map",
+    "185.4d3b8a5a.chunk.js.map": "/tech-portfolio/static/js/185.4d3b8a5a.chunk.js.map",
+    "440.2745a242.chunk.js.map": "/tech-portfolio/static/js/440.2745a242.chunk.js.map",
+    "353.fe9c079c.chunk.css.map": "/tech-portfolio/static/css/353.fe9c079c.chunk.css.map",
+    "353.a6ae83c4.chunk.js.map": "/tech-portfolio/static/js/353.a6ae83c4.chunk.js.map",
+    "660.dff304d2.chunk.js.map": "/tech-portfolio/static/js/660.dff304d2.chunk.js.map",
+    "57.a6c51415.chunk.js.map": "/tech-portfolio/static/js/57.a6c51415.chunk.js.map",
+    "697.31498dcd.chunk.js.map": "/tech-portfolio/static/js/697.31498dcd.chunk.js.map",
+    "449.0ffb5098.chunk.js.map": "/tech-portfolio/static/js/449.0ffb5098.chunk.js.map",
+    "453.87e45203.chunk.js.map": "/tech-portfolio/static/js/453.87e45203.chunk.js.map",
+    "819.1e839109.chunk.js.map": "/tech-portfolio/static/js/819.1e839109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb301495.css",
+    "static/js/main.f159c9d8.js"
+  ]
+}

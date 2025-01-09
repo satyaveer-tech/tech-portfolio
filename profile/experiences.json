@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Sr. Software Developer",
+            "subtitle": "APYL SOFTWARE AND SYSTEMS LTD",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            ],
+            "dateText": "Oct/2013 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "APYL SOFTWARE AND SYSTEMS LTD",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on abc."
+            ],
+            "dateText": "06/2013 – 05/20XX"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Galaxy internet pvt ltd.",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed web application for multilevel marketing management system and school management system",
+                "Worked as a php developer"
+            ],
+            "dateText": "12/2010 – 06/2013"
+        }
+    ]
+}
